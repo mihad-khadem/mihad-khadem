@@ -85,6 +85,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mihad-khadem/mihad-khadem/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mihad-khadem/mihad-khadem/output/snake.svg" alt="" />
 
 ###
