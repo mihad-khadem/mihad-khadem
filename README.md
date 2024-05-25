@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/404715698_726883646164845_3281982014243439796_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGbVWZ2-FU5IPPNm9iEDC1eaq49HDcWjDhqrj0cNxaMOI6M-OHUvyXWp4oPBXRtvLAFC22fpFDYV0sNb1tZHFYf&_nc_ohc=77KakVWqPyoAX_dDPN_&_nc_ht=scontent.fdac24-2.fna&oh=00_AfAPvM_m8W6pmyBnjbd45IYaC3LWyq-MFimbp2WCsZenhA&oe=65F8F62D"  />
+  <a href="https://app.daily.dev/mihad_mohammad"><img src="https://api.daily.dev/devcards/v2/9m2R7EZwgLAj6eO91q1DU.png?type=default&r=feo" width="356" alt="MIHAD KHADEM's Dev Card"/></a>
 </div>
 
 ###
@@ -83,7 +83,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 <div align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=mihad-khadem)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 <div align="center">
  <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
