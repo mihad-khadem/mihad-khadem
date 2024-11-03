@@ -29,16 +29,20 @@
 ###
 
 <!-- GitHub Stats Section -->
-<div align="center">
+<div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
   <!-- Most Used Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mihad-khadem&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&custom_title=Most%20Used" height="150" alt="languages graph" /> <br>
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mihad-khadem&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&custom_title=Most%20Used" width="320" height="180" alt="languages graph" />
+
   <!-- GitHub Streak Stats Card -->
-  <img src="https://streak-stats.demolab.com?user=mihad-khadem&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  
+  <img src="https://streak-stats.demolab.com?user=mihad-khadem&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" width="320" height="180" alt="streak graph" />
+
   <!-- General GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mihad-khadem&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mihad-khadem&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" width="320" height="180" alt="stats graph" />
+
+  <!-- Wakatime Coding Activity Card -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mihad_khadem&theme=dracula" width="320" height="180" alt="Coding activity graph" />
 </div>
+
 
 ###
 
