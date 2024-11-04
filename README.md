@@ -40,7 +40,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mihad-khadem&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" width="320" height="180" alt="stats graph" />
 
   <!-- Wakatime Coding Activity Card -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mihad_khadem&theme=dracula" width="320" height="180" alt="Coding activity graph" />
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@5fc3eb20-934c-451a-9a03-23033ea48b81/56c8a88c-913e-4c1b-9bf4-13b455f9ffcb.png" /></a>
 </div>
 
 
