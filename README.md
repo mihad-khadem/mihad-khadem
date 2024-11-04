@@ -22,13 +22,13 @@
 ---
 
 <!-- Social Media Icons -->
-<h2 align="center">📫 Connect with Me</h2>
-<p align="center">
+<h2 align="rignt">📫 Connect with Me</h2>
+<p align="right" >
   <a href="https://linkedin.com/in/mihad-khadem"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn" style="margin: 0 8px;" /></a>
   <a href="https://twitter.com/mihad_khadem"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" alt="Twitter" style="margin: 0 8px;" /></a>
   <a href="https://discord.gg/yourprofile"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" alt="Discord" style="margin: 0 8px;" /></a>
   <a href="https://youtube.com/mihad-khadem"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" alt="YouTube" style="margin: 0 8px;" /></a>
-  <a href="mailto:mihad.k@example.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" alt="Gmail" style="margin: 0 8px;" /></a>
+  <a href="mailto:mihadkhadem@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" alt="Gmail" style="margin: 0 8px;" /></a>
 </p>
 
 ---
@@ -70,7 +70,7 @@
   </div>
 
   <!-- Additional Tools -->
-  <h3>Additional Tools</h3>
+  <h3> Tools</h3>
   <div style="display: flex; justify-content: center; flex-wrap: wrap;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" style="margin: 5px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" style="margin: 5px;" />
@@ -82,15 +82,13 @@
 
 ---
 
-<!-- Fun Section -->
-<h2 align="center">🎉 Fun Section</h2>
 
-- ✍️ Random Dev Quote  
-  ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
 
 - 🔝 Top Contributed Repos  
   ![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=mihad-khadem&limit=5&theme=transparent&combine_all_yearly_contributions=true)
-
+- ✍️ Random Dev Quote  
+  ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=defualt)
 ---
 
 <!-- Visitor Counter -->
