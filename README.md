@@ -1,6 +1,6 @@
 <!-- Introduction Section -->
-<h1 align="center">Hi there! I'm Mihad, a full-time MERN Stack Developer 👨‍💻 🚀</h1>
-<p align="center">Passionate about creating powerful web applications and always eager to learn new technologies.</p>
+<h1 align="center">Hi there! I'm Mihad, a Full-Stack Developer 👨‍💻 🚀</h1>
+<p align="center">Passionate about building powerful web applications and exploring the latest technologies.</p>
 
 ---
 
@@ -22,24 +22,24 @@
 ---
 
 <!-- Social Media Icons -->
-<h2 align="rignt">📫 Connect with Me</h2>
-<p align="right" >
+<h2 align="center">📫 Connect with Me</h2>
+<p align="center">
   <a href="https://linkedin.com/in/mihad-khadem"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn" style="margin: 0 8px;" /></a>
   <a href="https://twitter.com/mihad_khadem"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" alt="Twitter" style="margin: 0 8px;" /></a>
   <a href="https://discord.gg/yourprofile"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" alt="Discord" style="margin: 0 8px;" /></a>
   <a href="https://youtube.com/mihad-khadem"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" alt="YouTube" style="margin: 0 8px;" /></a>
-  <a href="mailto:mihadkhadem@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" alt="Gmail" style="margin: 0 8px;" /></a>
+  <a href="mailto:mihad.k@example.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" alt="Gmail" style="margin: 0 8px;" /></a>
 </p>
 
 ---
 
 <!-- GitHub Stats and Contributions -->
 <h2 align="center">📊 GitHub Stats</h2>
-<div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mihad-khadem&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" width="320" alt="Most Used Languages" />
-  <img src="https://streak-stats.demolab.com?user=mihad-khadem&theme=dracula&hide_border=false" width="320" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mihad-khadem&show_icons=true&theme=dracula&include_all_commits=true&hide_border=false" width="320" alt="GitHub Stats" />
-  <a href="https://wakatime.com"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=mihad_khadem&theme=dracula" width="320" alt="Wakatime Coding Activity" /></a>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mihad-khadem&locale=en&layout=compact&card_width=300&langs_count=5&theme=dracula&hide_border=true" width="300" alt="Most Used Languages" />
+  <img src="https://streak-stats.demolab.com?user=mihad-khadem&theme=dracula&hide_border=true" width="300" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mihad-khadem&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" width="300" alt="GitHub Stats" />
+  <a href="https://wakatime.com"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=mihad_khadem&theme=dracula" width="300" alt="Wakatime Coding Activity" /></a>
 </div>
 
 ---
@@ -50,7 +50,7 @@
 
   <!-- Frontend Tools -->
   <h3>Frontend</h3>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" style="margin: 5px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" style="margin: 5px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" style="margin: 5px;" />
@@ -61,7 +61,7 @@
 
   <!-- Backend Tools -->
   <h3>Backend</h3>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" style="margin: 5px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" style="margin: 5px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" style="margin: 5px;" />
@@ -70,8 +70,8 @@
   </div>
 
   <!-- Additional Tools -->
-  <h3> Tools</h3>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <h3>Additional Tools</h3>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" style="margin: 5px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" style="margin: 5px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" style="margin: 5px;" />
@@ -83,12 +83,10 @@
 ---
 
 
-
-
 - 🔝 Top Contributed Repos  
   ![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=mihad-khadem&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 - ✍️ Random Dev Quote  
-  ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=defualt)
+  ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 ---
 
 <!-- Visitor Counter -->
