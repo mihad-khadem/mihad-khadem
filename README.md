@@ -10,7 +10,7 @@
 
 <!-- About Section -->
 <div align="center">
-    🔭 Working at Dizit LTD  
+    🔭 Working at Bulipe Tech LTD,  
     🌱 Learning Next.js and PostgreSQL  
     💬 Ask me about MERN stack & related tech  
     ⚡ Fun fact: I prefer tabs over spaces  
