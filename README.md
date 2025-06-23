@@ -3,7 +3,7 @@
     <img src="https://i.ibb.co.com/L6K4z0G/Beige-Black-Geometric-Technology-Linked-In-Banner-1.png" alt="Mihad Khadem Banner" width="100%" />
 </div>
 <div align="center">
-    <h2>👋 I'm Mihad, a Full-Stack MERN Developer 🚀</h2>
+    <h2>👋 Assalamualikom, I'm Mihad, a Full-Stack Developer 🚀</h2>
 </div>
 
 ---
@@ -11,8 +11,11 @@
 <!-- About Section -->
 <div align="center">
     🔭 Working at Bulipe Tech LTD,  
-    🌱 Learning Next.js and PostgreSQL  
+                <br />
+    🌱 Learning Nest & Prisma ,
+                <br />
     💬 Ask me about MERN stack & related tech  
+    <br/>
     ⚡ Fun fact: I prefer tabs over spaces  
 </div>
 
@@ -95,5 +98,6 @@
 ---
 
 <!-- Profile Visitor Counter -->
-<div align="center">
-    <img src="https://profile-counter.glitch.me/
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mihad-khadem&label=Profile%20views&color=0e75b6&style=flat" alt="mihad-khadem" />
+</p>
