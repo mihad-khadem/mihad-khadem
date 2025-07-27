@@ -37,9 +37,7 @@
 
 <!-- Wakatime Coding Activity -->
 <div align="center">
-    <figure>
-        <embed src="https://wakatime.com/share/@mihad/07de83b9-884e-4ebf-ab53-726b1d5626c1.svg"></embed>
-    </figure>
+    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@mihad/e7a896b0-b024-4b6f-8d7a-40c9048644a8.png" /></a>
 </div>
 
 ---
