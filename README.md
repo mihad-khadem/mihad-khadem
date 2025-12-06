@@ -4,14 +4,13 @@
 # 👋 Assalamualaikum, I'm **Mihad** — Full-Stack Developer 🚀
 
 🔭 Building scalable systems with **MERN & TypeScript**  
-🌱 Practising **Nest, Prisma, PostgreSQL, Docker, AWS**  
+🌱 Practicing **Nest, Prisma, PostgreSQL, Docker, AWS**  
 💬 Ask me about backend systems, API design & debugging  
 ⚡ Fun fact: I prefer **tabs over spaces** 😎  
 
 ---
 
 ## 🌐 Socials
-
 <div align="left">
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mihadkhadem@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mihadkhadem)  
@@ -67,6 +66,17 @@
 
 ---
 
+## 🤝 Connect with Me
+<div align="left">
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mihadkhadem@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mihadkhadem)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mihadkhadem)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mihadkhadem)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=aboutme&logoColor=white)](https://your-portfolio-link.com)
+</div>
+
+---
+
 ## 📊 GitHub Stats
 <div align="center">
 ![Stats](https://github-readme-stats.vercel.app/api?username=mihad-khadem&show_icons=true&theme=radical&hide_border=true)
@@ -83,7 +93,6 @@
 
 ---
 
-
 ## 🔝 Top Contributed Repos
 <div align="center">
 ![Top Repos](https://github-contributor-stats.vercel.app/api?username=mihad-khadem&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -95,8 +104,6 @@
 <div align="center">
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
-
-
 
 ---
 
