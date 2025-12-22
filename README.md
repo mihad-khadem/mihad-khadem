@@ -30,6 +30,12 @@
 </p>
 
 <hr/>
+<p align="center">
+  <a href="[https://github.com/mihad-khadem/mihad-khadem/raw/main/Mihad_Khadem_Resume.pdf](https://github.com/mihad-khadem/mihad-khadem/blob/main/resume_mihad_khadem_fs20251220.pdf)" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-0A66C2?style=for-the-badge&logo=googledocs&logoColor=white" />
+  </a>
+</p>
+
 
 <h2>🛠️ Tech Stack</h2>
 
