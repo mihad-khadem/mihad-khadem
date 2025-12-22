@@ -34,9 +34,7 @@
   <a href="https://drive.google.com/file/d/1pFGYQjgTrnyjB3eHSKrlQU5tOy-A-J4F/view" target="_blank">
     <img src="https://img.shields.io/badge/View%20Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/uc?export=download&id=1pFGYQjgTrnyjB3eHSKrlQU5tOy-A-J4F" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Resume-0A66C2?style=for-the-badge&logo=download&logoColor=white" />
-  </a>
+
 </p>
 
 
