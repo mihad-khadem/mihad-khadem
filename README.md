@@ -3,7 +3,7 @@
 
 <h1 align="center">👋 Assalamualaikum, I'm Mihad — Full-Stack Developer 🚀</h1>
 
-<p align="center">
+<p align="left">
   Building scalable systems with <b>Node.js & TypeScript</b><br/>
   Practicing <b>NestJS, Prisma, PostgreSQL, Docker, AWS</b><br/>
   Backend systems • API design • Debugging<br/>
